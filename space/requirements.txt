@@ -1,0 +1,6 @@
+torch>=2.2,<3
+transformers>=4.57,<6
+peft>=0.14,<1
+accelerate>=1.2,<2
+gradio>=5,<7
+safetensors>=0.4,<1
