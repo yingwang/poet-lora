@@ -3,6 +3,9 @@
 用 Qwen2.5 指令模型和唐诗宋词语料训练一个“给题目或起句生成古诗词”的模型，
 并部署到 Hugging Face Spaces。
 
+- [Hugging Face 模型](https://huggingface.co/xingqiwang/tang-song-poet-lora)
+- [在线 Gradio Demo](https://huggingface.co/spaces/xingqiwang/poet-demo)
+
 ## 模型与技术
 
 | 项目 | 配置 |

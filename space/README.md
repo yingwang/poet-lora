@@ -12,3 +12,6 @@ pinned: false
 # 唐诗宋词生成器
 
 基于 Qwen2.5-0.5B-Instruct 和唐诗宋词语料微调的 PEFT LoRA 演示。
+
+- [模型与 model card](https://huggingface.co/xingqiwang/tang-song-poet-lora)
+- [训练源码](https://github.com/yingwang/poet-lora)
